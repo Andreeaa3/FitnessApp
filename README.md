@@ -11,7 +11,7 @@ Features
 - Workout Ideas: Displays a curated list of exercises including target muscle groups, required equipment, and detailed instructions.
 - Custom Meal Plans: Provides structured nutritional guides and recipes tailored for different goals, such as Weight Loss, Muscle Gain, Energy and Performance, and Vegetarian or Vegan diets.
 
-Images of the app:
+Images of the app:<br><br>
 <img src="https://github.com/user-attachments/assets/f2b46f45-4e6a-4cdc-a7e8-b8c934848ce3" width="250" /><br><br>
 
 <img src="https://github.com/user-attachments/assets/a5cea9eb-29e2-4128-9abc-9e29faa04d80" width="250" /><br><br>
