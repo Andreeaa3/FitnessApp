@@ -12,12 +12,12 @@ Features
 - Custom Meal Plans: Provides structured nutritional guides and recipes tailored for different goals, such as Weight Loss, Muscle Gain, Energy and Performance, and Vegetarian or Vegan diets.
 
 Images of the app:
-<img src="https://github.com/user-attachments/assets/f2b46f45-4e6a-4cdc-a7e8-b8c934848ce3" width="250" alt="Dashboard" />
+<img src="https://github.com/user-attachments/assets/f2b46f45-4e6a-4cdc-a7e8-b8c934848ce3" width="250" /><br><br>
 
-<img src="https://github.com/user-attachments/assets/a5cea9eb-29e2-4128-9abc-9e29faa04d80" width="250" alt="Meal Plan" />
+<img src="https://github.com/user-attachments/assets/a5cea9eb-29e2-4128-9abc-9e29faa04d80" width="250" /><br><br>
 
-<img src="https://github.com/user-attachments/assets/d12fe964-2e3e-4fbd-be7d-4f6c55573e47" width="250" alt="Step Counter" />
+<img src="https://github.com/user-attachments/assets/d12fe964-2e3e-4fbd-be7d-4f6c55573e47" width="250" /><br><br>
 
-<img src="https://github.com/user-attachments/assets/b1c014b3-d541-4abe-9924-fa35b5f7370f" width="250" alt="Stopwatch" />
+<img src="https://github.com/user-attachments/assets/b1c014b3-d541-4abe-9924-fa35b5f7370f" width="250" />
 
 
